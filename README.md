@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-🚀 Senior iOS Developer with **3+ years of experience** building scalable and production-grade mobile applications.
+🚀 Senior iOS Developer with **4 years of experience** building scalable and production-grade mobile applications.
 
 📱 Specialized in **Swift, SwiftUI, UIKit and Bluetooth Low Energy (BLE) hardware integration**.
 
