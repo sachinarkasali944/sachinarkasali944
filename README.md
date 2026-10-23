@@ -1,169 +1,63 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Sachin Arkasali — iOS engineer working with Swift, SwiftUI, UIKit and Bluetooth Low Energy" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=SF+Pro+Display&size=32&duration=3500&pause=800&color=0A84FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sachin+Arkasali;Senior+iOS+Developer;Swift+%7C+SwiftUI+%7C+UIKit+Engineer;CoreBluetooth+%7C+BLE+Hardware+Integration;Building+Scalable+iOS+Applications" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachinarkasali/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sachinarkasali5@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Sachin_arkasali/">LeetCode</a>
+</p>
 
-<br/>
+## Hello, I'm Sachin
 
-<img src="https://komarev.com/ghpvc/?username=sachinarkasali944&label=Profile%20Views&color=0A84FF&style=flat" />
+I'm a **Senior Software Engineer focused on iOS** at **Bosch Global Software Technologies**, based in Bengaluru, India. I've been building iOS apps since 2022, with a focus on **Bluetooth Low Energy, hardware integration, and dependable device communication**.
 
-</div>
+I work across the app lifecycle: designing reusable components, building SwiftUI and UIKit interfaces, integrating hardware, and shipping through TestFlight and the App Store.
 
----
+## Professional experience
 
-# 👨‍💻 About Me
+**Bosch Global Software Technologies**  
+Senior Software Engineer · July 2022–present  
+iOS Developer Intern · April–June 2022
 
-🚀 Senior iOS Developer with **4 years of experience** building scalable and production-grade mobile applications.
+My work on **Levelling Remote**, a production app for Bosch construction levelling tools, includes:
 
-📱 Specialized in **Swift, SwiftUI, UIKit and Bluetooth Low Energy (BLE) hardware integration**.
+- Owning BLE integration and bidirectional communication with measuring devices, including reconnection flows for challenging field conditions.
+- Using CoreBluetooth and Swift Concurrency to manage device communication.
+- Building modular networking with URLSession and async/await.
+- Integrating Tealium analytics and supporting hardware onboarding, localisation, and App Store releases.
 
-🏢 Currently working at **Bosch Global Software Technologies**, developing enterprise mobile applications used by engineers in real-world field environments.
+## Tools I work with
 
-💡 Passionate about:
+| Area | Technologies & practices |
+| :--- | :--- |
+| Languages & UI | Swift, SwiftUI, UIKit |
+| Hardware & concurrency | CoreBluetooth, BLE, Swift Concurrency, async/await |
+| Architecture | MVVM, modularisation, protocol-oriented programming, SOLID |
+| Networking & storage | URLSession, REST APIs, JSON, Core Data |
+| Quality & delivery | XCTest, Swift Package Manager, Git, code review, Azure DevOps, TestFlight, App Store Connect |
 
-• Clean Architecture  
-• Scalable iOS systems  
-• Hardware-integrated mobile applications  
-• Performance optimization  
+## Explore my public projects
 
----
+Independent projects exploring the engineering patterns I use in iOS development.
 
-# ⚡ Tech Stack
+| Project | Focus |
+| :--- | :--- |
+| [**BluetoothScanner**](https://github.com/sachinarkasali944/BluetoothScanner) | CoreBluetooth discovery, signal history, and service and characteristic inspection in SwiftUI. |
+| [**MovieDBExplorer**](https://github.com/sachinarkasali944/MovieDBExplorer) | TMDB integration, paginated browsing, debounced search, and SwiftData favourites. |
+| [**GitHubUserFinder**](https://github.com/sachinarkasali944/GitHubUserFinder) | Actor-based networking, parallel async requests, and clear loading and error states. |
 
-## 👨‍💻 Languages
+## Recognition
 
-![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
-![Objective-C](https://img.shields.io/badge/Objective--C-blue?style=for-the-badge)
+- **Bosch Global Best Software Quality Project Award · 2025** — recognised for work on a hardware-integrated iOS solution used across global markets.
+- **Gem – Extra Miler Award · June 2025** — recognised for contributions beyond my role.
 
----
+## Beyond the app
 
-## 📱 iOS Development
+I practise data structures and algorithms on [LeetCode](https://leetcode.com/u/Sachin_arkasali/) and explore reusable Swift components and mobile architecture.
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge)
-![UIKit](https://img.shields.io/badge/UIKit-green?style=for-the-badge)
-![CoreBluetooth](https://img.shields.io/badge/CoreBluetooth-lightgrey?style=for-the-badge)
-
----
-
-## 🏗 Architecture
-
-![MVVM](https://img.shields.io/badge/MVVM-red?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-purple?style=for-the-badge)
-![Protocol Oriented](https://img.shields.io/badge/Protocol%20Oriented-darkgreen?style=for-the-badge)
-
----
-
-## 🌐 Networking
-
-![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge)
-![URLSession](https://img.shields.io/badge/URLSession-blue?style=for-the-badge)
-![Alamofire](https://img.shields.io/badge/Alamofire-red?style=for-the-badge)
-![Async Await](https://img.shields.io/badge/Async%2FAwait-yellow?style=for-the-badge)
-
----
-
-## ⚙️ Tools
-
-![Xcode](https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge)
-![TestFlight](https://img.shields.io/badge/TestFlight-grey?style=for-the-badge)
+**Education:** B.E. in Electronics and Communication Engineering, KLE Institute of Technology, 2018–2022.
 
 ---
 
-# 📱 Featured iOS Projects
-
-## 🔹 Levelling Remote — BLE Hardware Control App
-
-Production iOS application used by **construction engineers worldwide** to control Bosch measuring devices.
-
-### Key Features
-
-• Bluetooth Low Energy device connectivity  
-• Auto-reconnection logic for unstable environments  
-• Real-time measurement communication  
-• Hardware protocol integration  
-• CI/CD automated deployments  
-
-### Tech Stack
-
-Swift • SwiftUI • UIKit • CoreBluetooth • MVVM • Azure DevOps
-
----
-
-## 🔹 Thermal Imaging & Inspection App
-
-Enterprise inspection application used by engineers to capture and analyze thermal measurements.
-
-### Key Features
-
-• BLE device communication  
-• Inspection workflow UI  
-• Measurement visualization tools  
-• REST API integration  
-• Hardware collaboration with firmware teams  
-
-### Tech Stack
-
-Swift • UIKit • CoreBluetooth • Alamofire • MVVM
-
----
-
-# 🧠 Problem Solving
-
-I actively practice **Data Structures and Algorithms**.
-
-Focus Areas
-
-• Arrays  
-• Strings  
-• Sliding Window  
-• Dynamic Programming  
-
-LeetCode
-
-https://leetcode.com/u/Sachin_arkasali/
-
----
-
-# 🏆 Achievements
-
-🏅 **Bosch Global Best Software Quality Project Award — 2025**
-
-Impact Delivered
-
-• Reduced field device downtime **25%**  
-• Improved BLE processing efficiency **15%**  
-• Accelerated feature delivery **30%**
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachinarkasali944&show_icons=true&theme=default"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinarkasali944&layout=compact"/>
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-💼 LinkedIn  
-https://linkedin.com/in/sachinarkasali  
-
-💻 GitHub  
-https://github.com/sachinarkasali944  
-
-📧 Email  
-sachinarkasali5@gmail.com  
-
----
-
-<div align="center">
-
-⭐ Open to collaborating on **iOS, Swift and mobile architecture projects**
-
-</div>
+Interested in iOS, BLE, or mobile architecture? [Let's connect](https://www.linkedin.com/in/sachinarkasali/).
